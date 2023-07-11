@@ -31,10 +31,10 @@
 
 <div align="center">
 
-### 👩‍💻 My Github Stats 👩‍💻
+### 👩‍💻 Top Langs 👩‍💻
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hjklo0220&show_icons=true&theme=onedark) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hjklo0220&layout=compact&theme=onedark)
---- | --- | 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hjklo0220&layout=compact&theme=onedark)
+
 
 </div> 
 
